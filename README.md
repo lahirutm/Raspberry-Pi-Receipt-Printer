@@ -1,4 +1,4 @@
-Raspberry Pi-Thermal-Printer (with MySQL Dataase)
+Raspberry Pi-Thermal-Printer (with MySQL Database)
 =================================================
 
 Hardware Components
